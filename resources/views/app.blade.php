@@ -1,5 +1,5 @@
 <?php
-// resources/views/welcome.blade.php
+// resources/views/app.blade.php
 ?>
 
     <!DOCTYPE html>
@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<div id="example"></div>
+<div id="root"></div>
 <script src="{{ asset('js/app.js') }}"></script>
 
 </body>
